@@ -17,21 +17,21 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to docs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=LinkedIn-Clone-Alabs&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=LinkedIn-Clone-Alabs&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to docs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=TraPay&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=TraPay&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to docs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=Crosssift&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=Crosssift&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to docs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=Laravel-Test-Todo-App&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+    <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=Laravel-Test-Todo-App&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
 </p>
 
