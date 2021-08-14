@@ -106,6 +106,10 @@
   <a href="Firebase">
     <img src="https://img.shields.io/badge/-Firebase-%23ffc300?style=flat-square&logo=firebase&logoColor=ffffff" />
   </a>
+
+  <a href="Firebase">
+    <img src="https://img.shields.io/badge/-MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=F29111" />
+  </a>
 </p>
 <br/>
 
