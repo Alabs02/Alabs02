@@ -1,6 +1,16 @@
 <h3 align=center>Hey there I'm Usman 👋</h3>
 <br/><br/>
 
+<p align="center">
+  Hello, I'm Alabura Usman, FullStack Web and Mobile Developer from Nigeria with interest in Blockchain development
+  <br/><br/>
+  🏫 Am currently pursuing a B.Sc in Computer Science in the University of Jos, department of Computer Science.
+</p>
+
+<p>
+  💻 I'm in ❤ with the ***source code<strong>
+</p>
+
 
 <h6 align="center">SOCIAL MEDIA LINKS</h6>
 
