@@ -2,14 +2,14 @@
 <br/><br/>
 
 <p align="center">
-  Hello, I'm Alabura Usman, FullStack Web and Mobile Developer from Nigeria with interest in Blockchain development
+  Hello, I'm Alabura Usman, FullStack Web and Mobile Developer from Nigeria with interest in Blockchain development.
 </p>
 <br/>
 
-<p lign="center">
+<p align="center">
 🏫 Am currently pursuing a B.Sc in Computer Science in the University of Jos, department of Computer Science.
 </p>
-<p lign="center">
+<p align="center">
   💻 I'm in ❤ with the <strong>source code</strong>
   <br/>
   🌱 I'm currently learning GraphQL and NextJS
