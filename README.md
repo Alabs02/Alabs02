@@ -3,13 +3,21 @@
 
 <p align="center">
   Hello, I'm Alabura Usman, FullStack Web and Mobile Developer from Nigeria with interest in Blockchain development
-  <br/><br/>
-  🏫 Am currently pursuing a B.Sc in Computer Science in the University of Jos, department of Computer Science.
 </p>
+<br/>
 
-<p>
-  💻 I'm in ❤ with the ***source code<strong>
+<p lign="center">
+🏫 Am currently pursuing a B.Sc in Computer Science in the University of Jos, department of Computer Science.
 </p>
+<p lign="center">
+  💻 I'm in ❤ with the <strong>source code</strong>
+  <br/>
+  🌱 I'm currently learning GraphQL and NextJS
+  <br/><br/>
+  💬 Let's connect via: <strong><a href="mailto: alabson.inc@gmail.com">alabson.inc@gmail.com</a></strong>
+</p>
+<br/>
+
 
 
 <h6 align="center">SOCIAL MEDIA LINKS</h6>
@@ -135,7 +143,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=Laravel-Test-Todo-App&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
 </p>
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br/><br/>
 <p align="center">
   <code align="center"><a href="https://github.com/alabs02?tab=repositories" title="Browse">Browse 🔍</a>
 </code>
