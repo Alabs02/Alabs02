@@ -7,7 +7,7 @@
 <br/>
 
 <p align="center">
-🏫 Am currently pursuing a B.Sc in Computer Science in the University of Jos, department of Computer Science.
+🏫 Am currently pursuing a B.Sc in Computer Science at the University of Jos, department of Computer Science.
 </p>
 <p align="center">
   💻 I'm in ❤ with the <strong>source code</strong>
