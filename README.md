@@ -2,8 +2,8 @@
 <br/><br/>
 
 <p align="left">
-Hello, I’m Usman;<br />
-I’m very proficient in ReactJS, VueJS, Laravel, CSS3, HTML5, JavaScript, SCSS, Flutter, Tailwind CSS and other frameworks and libraries. I have built good looking web applications with seamless user interactivity.<br />
+Hello, I’m Usman;<br /><br />
+I’m very proficient in ReactJS, VueJS, Laravel, CSS3, HTML5, JavaScript, SCSS, Flutter, Tailwind CSS and other frameworks and libraries. I have built good looking web applications with seamless user interactivity.<br /><br />
 I love and I’m very good at Design Conversion, API Integration, and also designing Frontend Good Architecture. I have a serious passion for UI effects, animations and creating intuitive, dynamic and beautifully crafted user experiences. I do my best to set priorities, organize workflow, meet and even exceed expectations as well as pay attention to details.
   
 <br /><br />
