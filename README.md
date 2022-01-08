@@ -1,8 +1,13 @@
 <h3 align=center>Hey there I'm Usman 👋</h3>
 <br/><br/>
 
-<p align="center">
-  Hello, I'm Alabura Usman, FullStack Web and Mobile Developer from Nigeria with interest in Blockchain development.
+<p align="left">
+Hello, I’m Usman;<br />
+I’m very proficient in ReactJS, VueJS, Laravel, CSS3, HTML5, JavaScript, SCSS, Flutter, Tailwind CSS and other frameworks and libraries. I have built good looking web applications with seamless user interactivity.<br />
+I love and I’m very good at Design Conversion, API Integration, and also designing Frontend Good Architecture. I have a serious passion for UI effects, animations and creating intuitive, dynamic and beautifully crafted user experiences. I do my best to set priorities, organize workflow, meet and even exceed expectations as well as pay attention to details.
+  
+<br /><br />
+ -Usman, Let's build something special
 </p>
 <br/>
 
@@ -12,9 +17,9 @@
 <p align="center">
   💻 I'm in ❤ with the <strong>source code</strong>
   <br/>
-  🌱 I'm currently learning GraphQL and NextJS
+  🌱 I'm currently learning Angular2 and Solidity
   <br/><br/>
-  💬 Let's connect via: <strong><a href="mailto: alabson.inc@gmail.com">alabson.inc@gmail.com</a></strong>
+  💬 Let's connect via: <strong><a href="mailto: alabson.inc@gmail.com">alabson.inc@gmail.com</a></strong> 
 </p>
 <br/>
 
