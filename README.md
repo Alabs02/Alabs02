@@ -11,7 +11,7 @@ I love and I’m very good at Design Conversion, API Integration, and also desig
 <br/>
 
 <p align="center">
-🏢 I currently work at <a href="https://gradely.co/"><strong>Gradely NG</strong><a><br />
+🏢 I currently work at <a href="https://www.liveable.ng/list/"><strong>Liveable NG</strong><a><br />
 🏫 Am currently pursuing a B.Sc in Computer Science at the University of Jos, department of Computer Science.
 </p>
 <p align="center">
