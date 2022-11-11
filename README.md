@@ -1,14 +1,17 @@
-<h3 align=center>Hello, I'm Usman; 👋</h3>
+<h3 align=center>Hello 👋, I'm Usman;</h3>
 <br/><br/>
+
+<p align="left">I'm a Front-end Developer.</p>
 
 <p align="left">
-I’m a web developer with considerable experience in building seamless web applications. I'm proficient in React JS, Next JS, JavaScript, TypeScript,  Redux,  Vue JS, and SCSS, and I'm also familiar with SOLID, and BEM development conventions.
-<br/><br/>
-I love and I’m very good at Design Conversion, API Integration, and designing Good Front-end Architecture like micro front-ends and creating mini-style libraries/UI kits based on designs for robust projects. 
+I’m a web developer with considerable experience in building intuitive seamless web applications.  I'm a fast learner, I posses excellent problem-solving capabilities and I can push myself to the limit in other to meet and exceed expectations.
 <br/><br/>
 
-I have a solid understanding of SEO and how to make applications SEO friendly, I also have an innate passion for UI effects, animations, and creating intuitive, dynamic, and beautifully crafted user experiences. I do my best to set priorities, organize workflow, and meet or even exceed expectations, and I also pay attention to details.
-<br /><br />
+I have a good track record, I'm Front-end heavy. I'm proficient and conversant with most of the relevant Front-end technologies, techniques and processes. I have an innate passion for animations, UI effects, and creating intuitive solutions that will serve it's purpose.
+
+<br/><br/>
+I'm self-motivated, result driven, professional, and I understand and respect boundaries. I try to bond with my teammates via code reviews, assisting and looking out for one another.
+<br/><br/>
 
 
 -Usman, Let's build something special!
@@ -17,7 +20,6 @@ I have a solid understanding of SEO and how to make applications SEO friendly, I
 
 <p align="center">
 🏢 I currently work at <a href="https://www.acronis.com/en-us/"><strong>Acronis International GmbH</strong><a><br />
-🏫 Am currently pursuing a B.Sc in Computer Science at the University of Jos, department of Computer Science.
 </p>
 <br/>
 
@@ -63,14 +65,11 @@ I have a solid understanding of SEO and how to make applications SEO friendly, I
   <a href="Vue JS">
     <img src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs" />
   </a>
+  <a href="Angular JS">
+    <img src="https://img.shields.io/badge/-Angular JS-%23F05032?style=flat-square&logo=angular" />
+  </a>
   <a href="SASS">
     <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" />
-  </a>
-  <a href="HTML5">
-    <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />
-  </a>
-  <a href="CSS 3">
-    <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
   </a>
   <a href="Vite">
     <img src="https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff" />
@@ -81,18 +80,12 @@ I have a solid understanding of SEO and how to make applications SEO friendly, I
   <a href="GIT">
     <img src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" />
   </a>
-  <a href="Visual Studio Code">
-    <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
-  </a>
   <a href="Netlify">
-    <img src="https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-AWS Amplify-%FF9900?style=flat-square&logo=aws&logoColor=ffffff" />
   </a>
   <a href="Firebase">
     <img src="https://img.shields.io/badge/-Firebase-%23ffc300?style=flat-square&logo=firebase&logoColor=ffffff" />
   </a>
-  <!-- <a href="Firebase">
-    <img src="https://img.shields.io/badge/-MySQL-%2300758F?style=flat-square&logo=mysql&logoColor=F29111" />
-  </a> -->
 </p>
 <br/>
 
