@@ -1,8 +1,6 @@
 <h3 align=center>Hello 👋, I'm Usman;</h3>
 <br/><br/>
 
-<p align="left">I'm a Front-end Developer.</p>
-
 <p align="left">
 I’m a web developer with considerable experience in building intuitive seamless web applications.  I'm a fast learner, I posses excellent problem-solving capabilities and I can push myself to the limit in other to meet and exceed expectations.
 <br/><br/>
