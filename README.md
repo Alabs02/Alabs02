@@ -9,17 +9,13 @@ I’m a web developer with considerable experience in building intuitive seamles
 
 I have a good track record, I'm Front-end heavy. I'm proficient and conversant with most of the relevant Front-end technologies, techniques and processes. I have an innate passion for animations, UI effects, and creating intuitive solutions that will serve it's purpose.
 
-<br/><br/>
-I'm self-motivated, result driven, professional, and I understand and respect boundaries. I try to bond with my teammates via code reviews, assisting and looking out for one another.
-<br/><br/>
-
 
 -Usman, Let's build something special!
 </p>
 <br/>
 
 <p align="center">
-🏢 I currently work at <a href="https://www.acronis.com/en-us/"><strong>Acronis International GmbH</strong><a><br />
+🏢 I currently work at <a href="https://www.sbsc.com/"><strong>Software Business Solutions Consulting</strong><a><br />
 </p>
 <br/>
 
