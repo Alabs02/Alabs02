@@ -98,16 +98,16 @@ I have a good track record, I'm Front-end heavy. I'm proficient and conversant w
 <h6 align="center">MY REPOSITORIES</h6>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to docs">
+  <a href="https://github.com/Alabs02/vue3-todo-app" title="Go to docs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=Artisto&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to docs">
+  <a href="https://github.com/Alabs02/vue3-todo-app" title="Go to docs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=vue3-todo-app&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to docs">
+  <a href="https://github.com/Alabs02/React-Typescript-Vite-Starter-Kit" title="Go to docs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=React-Typescript-Vite-Starter-Kit&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to docs">
+  <a href="https://github.com/Alabs02/bit-dev-react-kit" title="Go to docs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=bit-dev-react-kit&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
 </p>
