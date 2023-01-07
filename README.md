@@ -2,10 +2,7 @@
 <br/><br/>
 
 <p align="left">
-I’m a web developer with considerable experience in building intuitive seamless web applications.  I'm a fast learner, I posses excellent problem-solving capabilities and I can push myself to the limit in other to meet and exceed expectations.
-<br/><br/>
-
-I have a good track record, I'm Front-end heavy. I'm proficient and conversant with most of the relevant Front-end technologies, techniques and processes. I have an innate passion for animations, UI effects, and creating intuitive solutions that will serve it's purpose.
+I'm a highly skilled developer with a strong passion for animations, UI effects, design systems, and creating intuitive solutions. Proficient in a wide range of front-end technologies and techniques. I'm Self-motivated, results-driven, and professional with excellent communication and team bonding skills. Committed to delivering high-quality work that meets business needs and exceeds customer expectations.
 
 
 -Usman, Let's build something special!
