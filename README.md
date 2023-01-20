@@ -1,6 +1,3 @@
-<h3 align=center>Hello 👋, I'm Usman;</h3>
-<br/><br/>
-
 <p align="left">
 I'm a highly skilled developer with a strong passion for animations, UI effects, design systems, and creating intuitive solutions. Proficient in a wide range of front-end technologies and techniques. I'm Self-motivated, results-driven, and professional with excellent communication and team bonding skills. Committed to delivering high-quality work that meets business needs and exceeds customer expectations.
 
