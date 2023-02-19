@@ -1,5 +1,9 @@
 <p align="left">
-I'm a highly skilled developer with a strong passion for animations, UI effects, design systems, and creating intuitive solutions. Proficient in a wide range of front-end technologies and techniques. I'm Self-motivated, results-driven, and professional with excellent communication and team bonding skills. Committed to delivering high-quality work that meets business needs and exceeds customer expectations.
+As a seasoned Software Engineer with over half a decade of experience, I am an expert in creating exceptional web and mobile experiences. With a proven track record in start-up and scale-up environments, I can lead complex projects and drive results with minimal supervision.
+
+I am a lifelong learner and am well-versed in the latest technologies and techniques. 
+
+My passion for innovation and commitment to delivering exceptional results make me a valuable asset to any organization.
 
 
 -Usman, Let's build something special!
