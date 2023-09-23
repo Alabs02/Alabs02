@@ -100,7 +100,7 @@ My passion for innovation and commitment to delivering exceptional results make 
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=Artisto&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
   <a href="https://github.com/Alabs02/vue3-headless-otp-pin-form" title="Go to docs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=vue3-todo-app&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=vue3-headless-otp-pin-form&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
   <a href="https://github.com/Alabs02/React-Typescript-Vite-Starter-Kit" title="Go to docs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=React-Typescript-Vite-Starter-Kit&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
