@@ -39,17 +39,26 @@ My passion for innovation and commitment to delivering exceptional results make 
 
 <h6 align="center">MY TECH STACK</h6>
 <p align="center">
+  <a href="TypeScript">
+    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  </a>
   <a href="Javascript">
     <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
   </a>
-  <a href="TypeScript">
-    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <a href="Python">
+    <img src="https://img.shields.io/badge/-Python-%23F7DF1C?style=flat-square&logo=python&logoColor=000000&labelColor=646464&color=FFD43B" />
   </a>
   <a href="React JS">
     <img src="https://img.shields.io/badge/-React JS-%23282C34?style=flat-square&logo=react" />
   </a>
   <a href="NEXT JS">
     <img src="https://img.shields.io/badge/-Next%20JS-%23282C34?style=flat-square&logo=next.js" />
+  </a>
+  <a href="Node JS">
+    <img src="https://img.shields.io/badge/-Node_JS-%23F7DF1C?style=flat-square&logo=node-js&logoColor=000000&labelColor=ecf3eb&color=3C873A" />
+  </a>
+  <a href="Nest JS">
+    <img src="https://img.shields.io/badge/-Nest%20JS-%23F7DF1C?style=flat-square&logo=nest&logoColor=000000&labelColor=fbeaec&color=db2840" />
   </a>
   <a href="REDUX">
     <img src="https://img.shields.io/badge/-Redux-%23282C34?style=flat-square&logo=redux" />
@@ -96,17 +105,23 @@ My passion for innovation and commitment to delivering exceptional results make 
 <h6 align="center">MY REPOSITORIES</h6>
 
 <p align="center">
-  <a href="https://github.com/Alabs02/Artisto" title="Go to docs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=Artisto&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+  <a href="https://github.com/Alabs02/wikipedia-insights-validator" title="Go to repo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=wikipedia-insights-validator&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
-  <a href="https://github.com/Alabs02/vue3-headless-otp-pin-form" title="Go to docs">
+  <a href="https://github.com/Alabs02/alabura.com" title="Go to repo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=alabura.com&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+  </a>
+  <a href="https://github.com/Alabs02/Openai-Vision-App" title="Go to repo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=Openai-Vision-App&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+  </a>
+  <a href="https://github.com/Alabs02/calendar-app" title="Go to repo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=calendar-app&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+  </a>
+   <a href="https://github.com/Alabs02/bbm.labs.twin" title="Go to repo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=bbm.labs.twin&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+  </a>
+   <a href="https://github.com/Alabs02/vue3-headless-otp-pin-form" title="Go to repo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=vue3-headless-otp-pin-form&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
-  </a>
-  <a href="https://github.com/Alabs02/React-Typescript-Vite-Starter-Kit" title="Go to docs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=React-Typescript-Vite-Starter-Kit&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
-  </a>
-  <a href="https://github.com/Alabs02/bit-dev-react-kit" title="Go to docs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=bit-dev-react-kit&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
 </p>
 <br /><br /><br /><br /><br /><br/><br/>
