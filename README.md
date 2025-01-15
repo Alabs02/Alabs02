@@ -85,7 +85,7 @@ My passion for innovation and commitment to delivering exceptional results make 
     <img src="https://img.shields.io/badge/-AWS Amplify-%FF9900?style=flat-square&logo=aws&logoColor=ffffff" />
   </a>
   <a href="Firebase">
-    <img src="https://img.shields.io/badge/-Firebase-%23ffc300?style=flat-square&logo=firebase&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/-Firebase-%23014242?style=flat-square&logo=firebase&logoColor=ffffff" />
   </a>
 </p>
 <br/>
@@ -94,10 +94,10 @@ My passion for innovation and commitment to delivering exceptional results make 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"title="Go to docs">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=alabs02&show_icons=true&bg_color=001d3d&icon_color=ffc300&text_color=bde0fe&title_color=ffc300&border_radius=15&line_height=30&count_private=true&hide_border=true">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=alabs02&show_icons=true&bg_color=001d3d&icon_color=014242&text_color=bde0fe&title_color=014242&border_radius=15&line_height=30&count_private=true&hide_border=true">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to docs">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alabs02&hide=c%23,powershell,java&title_color=ffc300&text_color=bde0fe&bg_color=001d3d&langs_count=10&layout=compact&border_radius=15&hide_border=true&line_height=30" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alabs02&hide=c%23,powershell,java&title_color=014242&text_color=bde0fe&bg_color=001d3d&langs_count=10&layout=compact&border_radius=15&hide_border=true&line_height=30" />
   </a>
 </p>
 <br/>
@@ -106,26 +106,32 @@ My passion for innovation and commitment to delivering exceptional results make 
 
 <p align="center">
   <a href="https://github.com/Alabs02/wikipedia-insights-validator" title="Go to repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=wikipedia-insights-validator&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=wikipedia-insights-validator&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=014242" />
   </a>
   <a href="https://github.com/Alabs02/alabura.com" title="Go to repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=alabura.com&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=alabura.com&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=014242" />
   </a>
   <a href="https://github.com/Alabs02/Openai-Vision-App" title="Go to repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=Openai-Vision-App&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=Openai-Vision-App&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=014242" />
   </a>
   <a href="https://github.com/Alabs02/vue3-headless-otp-pin-form" title="Go to repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=vue3-headless-otp-pin-form&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=vue3-headless-otp-pin-form&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=014242" />
   </a>
   <a href="https://github.com/Alabs02/calendar-app" title="Go to repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=calendar-app&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=calendar-app&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=014242" />
   </a>
    <a href="https://github.com/Alabs02/bbm.labs.twin" title="Go to repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=bbm.labs.twin&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=bbm.labs.twin&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=014242" />
   </a>
 </p>
 <br /><br /><br /><br /><br /><br/><br/>
 <p align="center">
   <code align="center"><a href="https://github.com/alabs02?tab=repositories" title="Browse">Browse 🔍</a>
 </code>
+
+<h6 align="center">MY WAKA TIME STATS</h6>
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UsmanUnfolds&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=014242" />
+<br/>
+<br/>
 </p>
