@@ -1,5 +1,5 @@
 <p align="left">
-👋 Hi there! I'm **Alabura Usman**, a Senior Fullstack Engineer specializing in architecting and engineering scalable, high-performance digital solutions. With over half a decade of hands-on experience, I bring speed, strategy, and precision to complex system design, artificial intelligence (AI), natural language processing (NLP), machine learning (ML), and large language model (LLM) fine-tuning.
+👋 Hi there! I'm <b>Alabura Usman</b>, a Senior Fullstack Engineer specializing in architecting and engineering scalable, high-performance digital solutions. With over half a decade of hands-on experience, I bring speed, strategy, and precision to complex system design, artificial intelligence (AI), natural language processing (NLP), machine learning (ML), and large language model (LLM) fine-tuning.
 
 🚀 I thrive in startup and scale-up environments, delivering market-leading solutions that transform bold ideas into impactful realities. My passion for innovation drives me to explore emerging technologies and develop human-centered digital products that redefine possibilities.
 
@@ -17,14 +17,14 @@ Let's build something extraordinary together! ✨
 <h6 align="center">SOCIAL MEDIA LINKS</h6>
 
 <p align="center">
-  <a href="https://github.com/Alabs02">
-    <img src="https://img.shields.io/badge/-@Alabs02-%23181717?style=flat-square&logo=github" />
+  <a href="https://medium.com/@alabura.usman">
+    <img src="https://img.shields.io/badge/-Medium_Blog%23181717?style=flat-square&logo=medium" />
   </a>
   <a href="https://codepen.io/Alabura">
-    <img src="https://img.shields.io/badge/-@Alabura-%23000814?style=flat-square&logo=codepen" />
+    <img src="https://img.shields.io/badge/-Code_Pen-%23000814?style=flat-square&logo=codepen" />
   </a>
-  <a href="https://www.linkedin.com/in/alabura-usman-dev/">
-    <img src="https://img.shields.io/badge/-@Alabura Usman-%230077B5?style=flat-square&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/usmanunfolds/">
+    <img src="https://img.shields.io/badge/-LinkedIn_Profile-%230077B5?style=flat-square&logo=linkedin" />
   </a>
 </p>
 <br/>
