@@ -1,26 +1,18 @@
 <p align="left">
-As a seasoned Software Engineer with over half a decade of experience, I am an expert in creating exceptional web and mobile experiences. With a proven track record in start-up and scale-up environments, I can lead complex projects and drive results with minimal supervision.
+👋 Hi there! I'm **Alabura Usman**, a Senior Fullstack Engineer specializing in architecting and engineering scalable, high-performance digital solutions. With over half a decade of hands-on experience, I bring speed, strategy, and precision to complex system design, artificial intelligence (AI), natural language processing (NLP), machine learning (ML), and large language model (LLM) fine-tuning.
 
-I am a lifelong learner and am well-versed in the latest technologies and techniques. 
+🚀 I thrive in startup and scale-up environments, delivering market-leading solutions that transform bold ideas into impactful realities. My passion for innovation drives me to explore emerging technologies and develop human-centered digital products that redefine possibilities.
 
-My passion for innovation and commitment to delivering exceptional results make me a valuable asset to any organization.
+🔍 Whether tackling intricate challenges in software architecture, optimizing AI-driven systems, or building intuitive user experiences, I am committed to delivering exceptional results and leaving a legacy of innovation.
 
-
--Usman, Let's build something special!
+Let's build something extraordinary together! ✨
 </p>
 <br/>
 
-<p align="center">
-🏢 I currently work at <a href="https://www.sbsc.com/"><strong>Software Business Solutions Consulting</strong><a><br />
+<p align="left">
+  💬 Let's connect via: <strong><a href="mailto:usmanunfolds@alabura.com">usmanunfolds@alabura.com</a></strong> 
 </p>
 <br/>
-
-<p align="center">
-  💬 Let's connect via: <strong><a href="mailto: alabson.inc@gmail.com">alabson.inc@gmail.com</a></strong> 
-</p>
-<br/><br/>
-
-
 
 <h6 align="center">SOCIAL MEDIA LINKS</h6>
 
@@ -94,10 +86,10 @@ My passion for innovation and commitment to delivering exceptional results make 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"title="Go to docs">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=alabs02&show_icons=true&bg_color=001d3d&icon_color=014242&text_color=bde0fe&title_color=014242&border_radius=15&line_height=30&count_private=true&hide_border=true">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=alabs02&show_icons=true&bg_color=001d3d&icon_color=e8fafa&text_color=bde0fe&title_color=e8fafa&border_radius=15&line_height=30&count_private=true&hide_border=true">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to docs">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alabs02&hide=c%23,powershell,java&title_color=014242&text_color=bde0fe&bg_color=001d3d&langs_count=10&layout=compact&border_radius=15&hide_border=true&line_height=30" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alabs02&hide=c%23,powershell,java&title_color=e8fafa&text_color=bde0fe&bg_color=001d3d&langs_count=10&layout=compact&border_radius=15&hide_border=true&line_height=30" />
   </a>
 </p>
 <br/>
@@ -124,7 +116,8 @@ My passion for innovation and commitment to delivering exceptional results make 
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=bbm.labs.twin&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=014242" />
   </a>
 </p>
-<br /><br /><br /><br /><br /><br/><br/>
+<br /><br />
+
 <p align="center">
   <code align="center"><a href="https://github.com/alabs02?tab=repositories" title="Browse">Browse 🔍</a>
 </code>
