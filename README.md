@@ -131,7 +131,9 @@ My passion for innovation and commitment to delivering exceptional results make 
 
 <h6 align="center">MY WAKA TIME STATS</h6>
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UsmanUnfolds&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=014242" />
+<p align="center" style="width:100%;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=UsmanUnfolds" />
+</p>
 <br/>
 <br/>
 </p>
