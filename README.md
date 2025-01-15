@@ -111,9 +111,9 @@ My passion for innovation and commitment to delivering exceptional results make 
   <a href="https://github.com/Alabs02/alabura.com" title="Go to repo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=alabura.com&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
-  <a href="https://github.com/Alabs02/Openai-Vision-App" title="Go to repo">
+<!--   <a href="https://github.com/Alabs02/Openai-Vision-App" title="Go to repo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=Openai-Vision-App&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
-  </a>
+  </a> -->
   <a href="https://github.com/Alabs02/vue3-headless-otp-pin-form" title="Go to repo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alabs02&repo=vue3-headless-otp-pin-form&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
