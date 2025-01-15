@@ -18,7 +18,7 @@ Let's build something extraordinary together! ✨
 
 <p align="center">
   <a href="https://medium.com/@alabura.usman">
-    <img src="https://img.shields.io/badge/-Medium_Blog%23181717?style=flat-square&logo=medium" />
+    <img src="https://img.shields.io/badge/-Medium_Blog-%23000814?style=flat-square&logo=medium" />
   </a>
   <a href="https://codepen.io/Alabura">
     <img src="https://img.shields.io/badge/-Code_Pen-%23000814?style=flat-square&logo=codepen" />
